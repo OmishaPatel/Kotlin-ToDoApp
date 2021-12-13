@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 [Video Walkthrough](https://imgur.com/a/AccAtzr)
-
+![](app/todo.gif)
 
 GIF created with GIF Maker-Editor
 
